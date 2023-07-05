@@ -1,6 +1,14 @@
-OpenCV(开源的计算机视觉库)是基于BSD协议,因此它可免费用于学术和商业用途。
-其提供C++,C,Python和Java接口,支持Windows,Linux,Mac OS,iOS和Android。
-OpenCV致力于高效运算和即时应用开发。因其是用优化的C/C++编写的，故其可以充分利用多核处理优势。
-并且还启用了OpenSL,它可以利用底层异构计算平台的硬件加速。
-广泛运用在世界各地,OpenCV拥有超过4.7万人的用户社区和超过1400万的下载次数。
-从互动艺术、矿山检查、网络地图到先进的机器人技术都有OpenCV的身影。
+  OpenCV （开放源代码计算机视觉库），主要算法涉及图像处理、计算机视觉和机器学习相关方法。
+OPenCV其实就是一堆C和C++语言的源代码文件，这些源代码文件中实现了许多常用的计算机视觉算法。
+OpenCV可用于开发实时的图像处理、计算机视觉以及模式识别程序。
+  OpenCV由一系列C函数和C++类构成，它由C，C++，Python和Java接口，当前SDK（Software Development Kit 软件开发工具包）
+已经支持C++、java，python等语言应用开发，当前OpenCV本身新开发的算法和模块接口都是基于C++产生。
+  OpenCV官网：opencv.org/
+  opencv库各版本下载：https://sourceforge.net/projects/opencvlibrary/files/?source=navbar https://opencv.org/releases.html
+  opencv中文网站论坛：http://www.opencv.org.cn/
+  opencv 1.x中文文档：http://wiki.opencv.org.cn/index.php/%E9%A6%96%E9%A1%B5
+  opencv 2.3文档：http://www.opencv.org.cn/opencvdoc/2.3.2/html/index.html
+  opencv 3.4文档：https://docs.opencv.org/master/
+
+
+
